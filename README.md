@@ -1,3 +1,5 @@
+A Campaign made of Classes
+
 College of Staten Island
 CSC330 Object Orientation Fall 2024 with Prof. Tatiana Anderson
 Project By: Bailey Perillo, Amberlee Aponte, Ilir Krasniqi
